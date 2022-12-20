@@ -17,6 +17,12 @@ Also looking for Employment as a Software Development Intern/Junior for Summer 2
 <li>Learn Git(Hub)</li>
 <li>Become Employable</li>
 <li>Make Things!</li>
+</list>
+
+<h4>Things I need help with</h4>
+<list>
+  <li>How to install Racket on VS Code properly (I think I have path issues and it scares me</li>
+</list>
 
 Pleased to meet thyst acquaintance! 
 <!--
