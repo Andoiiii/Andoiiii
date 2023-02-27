@@ -5,6 +5,7 @@ Also looking for Employment as a Software Development Intern/Junior for Summer 2
 
 <h4>Languages I know </h4>
 <list>
+  <li>C (Currently Using at UW)</li>
 <li>Racket (Currently Using at UW) </li>
 <li>Python (might need a refresher)</li>
 <li>Java (also may need a refresher)</li>
@@ -14,7 +15,7 @@ Also looking for Employment as a Software Development Intern/Junior for Summer 2
 <h4>Things I am attempting to do </h4>
 <list>
 <li>Survive University </li>
-<li>Learn Git(Hub)</li>
+<li>Learn Javascript and SQL and all that jazz</li>
 <li>Become Employable</li>
 <li>Make Things!</li>
 </list>
