@@ -1,7 +1,6 @@
 <h3>Hihi Friend :heart:</h3>
-My name is Andy (or Andoiii on the Internet), and I am a CS/BBA student at the University of Waterloo/ Wilfred Laurier University, 1st year.
-Looking forward to learning how to code properly and to do things with said code.
-Also looking for Employment as a Software Development Intern/Junior for Summer 2023.
+My name is Andy (or Andoiii on the Internet), and I am a CS/BBA student at the University of Waterloo/ Wilfrid Laurier University, 1st year.
+Looking forward to learning!
 
 <h4>Languages I know </h4>
 <list>
@@ -14,10 +13,7 @@ Also looking for Employment as a Software Development Intern/Junior for Summer 2
 
 <h4>Things I am attempting to do </h4>
 <list>
-<li>Survive University </li>
-<li>Learn Javascript and SQL and all that jazz</li>
-<li>Become Employable</li>
-<li>Make Things!</li>
+  <li>yes</li>
 </list>
 
 <h4>Things I need help with</h4>
