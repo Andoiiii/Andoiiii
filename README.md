@@ -1,12 +1,13 @@
 <h3>Hihi Friend :heart:</h3>
-My name is Andy (or Andoiii on the Internet), and I am a CS/BBA student at the University of Waterloo/ Wilfrid Laurier University, 2nd year.
+My name is Andy (or Andoiii on the Internet), and I am a CS/BBA student at the University of Waterloo/ Wilfrid Laurier University, 3rd year.
 
 <h4>Languages I know </h4>
 <list>
   <li>C/C++</li>
   <li>Racket</li>
   <li>Javascript (React) + HTML/CSS (if that second part counts)</li>
-  <li>Once upon a time, Java and Python</li>
+  <li>Python</li>
+  <li>Once upon a time, Java</li>
 </list>
 
 🐉
